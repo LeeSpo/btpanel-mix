@@ -4,7 +4,7 @@
 **Centos/Ubuntu/Debian安装命令 独立运行环境（py3.7）：**
 
 ```Bash
-curl -sSO https://raw.githubusercontent.com/zhucaidan/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.shbsp;
+curl -sSO https://raw.githubusercontent.com/zhucaidan/btpanel-v7.7.0/main/install/install_panel.sh && bash install_panel.sh
 ```
 
 **如果遇到重启后宝塔乱码 请DD最新版Debian系统然后修改语言区域：**
